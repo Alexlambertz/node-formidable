@@ -6,4 +6,4 @@
 
 This module was addopted to meet the requirements to communicate with the proprietary SOAP Webservices of HP Service Manager.
 
-For Details about the general module please refer to (https://github.com/felixge/node-formidable).
+For Details about the general module please refer to https://github.com/felixge/node-formidable.
